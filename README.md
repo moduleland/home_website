@@ -14,7 +14,7 @@ We know one of the principles of __deno__ is about the no centralziation, but yo
 If you have any question, you can enter our [discord](https://discord.gg/2eqenPy)!
 
 ### How to use it?
-#### Account (not necessary to install public modules)
+#### Account
 - **Log in** with your github account
 - **Find** and **add** your module
 #### CLI
