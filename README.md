@@ -13,9 +13,9 @@ To take seriously a platform like that on production environments, private repos
 Ask about your doubts on our [discord](https://discord.gg/2eqenPy)!
 
 ### How to use it?
-- **Log in** with your github account.
+- **Log in** with your github account
 - **Find** and **add** your module
 - **Install the cli** using `deno install -A -f https://module.land/cli/land.js` in the terminal
-- **Add** a module on your project with `land add <username>/<repo>` or specify the version at the end `@<version>`
-- **Update** it like de add option with `land update <username>/<repo>` or specify the version at the end `@<version>`
+- **Add** a module on your project with `land add <username>/<repo>` or specify the version with `@<version>`
+- **Update** it like the add option with `land update <username>/<repo>` or specify the version with `@<version>`
 - **Run** your module with `land run <args>` args are the same as deno
