@@ -1,16 +1,17 @@
-## **Welcome to module.land!**
+## Welcome to module.land!
 
 *land everywhere*
 
 ### What is this?
-A deno module manager for your private and public modules hosted on github.
+A __deno__ module manager for your private and public modules hosted on __github__.
 
 ### Why?
-Deno is a growing community and we want to offer this solution because we are developers, developers, developers...
-To take seriously a platform like that on production environments, private repositories and ways to deliver code easily are needed.
+On production environments, private repositories and ways to safely delivery code, are a need.
+This project solves this problems and provides a complete environment of work.
+We know about one of the principles of __deno__ is about the no centralziation of modules, but your code is on __github__... or not?
 
 ### But...
-Ask about your doubts on our [discord](https://discord.gg/2eqenPy)!
+If you have any question, you can enter our [discord](https://discord.gg/2eqenPy)!
 
 ### How to use it?
 - **Log in** with your github account
