@@ -18,7 +18,7 @@ If you have any question or you want to help, you can join our [discord](https:/
 - **Log in** with your github account
 - **Find** and **add** your module
 #### CLI
-- **Install the cli** using `deno install -A -f https://module.land/cli/land.js` in the terminal
+- **Install the cli** using `deno install -Af https://module.land/cli/land.js` in the terminal
 - **Add** a module on your project with `land add <username>/<repo>` or specify the version with `@<version>`
 - **Run** your module with `land run <args>` args are the same as deno
 #### Your code
