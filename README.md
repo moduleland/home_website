@@ -11,7 +11,7 @@ This project solves this problems and provides a complete environment of work.
 One of the principles of __deno__ is the no centralziation, but your code is on __github__... so?
 
 ### But...
-If you have any question, you can join our [discord](https://discord.gg/2eqenPy) and talk to us!
+If you have any question or you want to help, you can join our [discord](https://discord.gg/2eqenPy) and talk to us!
 
 ### How to use it?
 #### Account
