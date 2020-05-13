@@ -6,12 +6,12 @@
 A __deno__ module manager for your private and public modules hosted on __github__.
 
 ### Why?
-On production environments, private repositories and ways to safely delivery code, are a need.
+On production environments, private repositories and a way to safely delivery code are a need.
 This project solves this problems and provides a complete environment of work.
-We know one of the principles of __deno__ is about the no centralziation, but your code is on __github__... no?
+One of the principles of __deno__ is the no centralziation, but your code is on __github__... so?
 
 ### But...
-If you have any question, you can enter our [discord](https://discord.gg/2eqenPy)!
+If you have any question, you can join our [discord](https://discord.gg/2eqenPy) and talk to us!
 
 ### How to use it?
 #### Account
