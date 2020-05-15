@@ -12,7 +12,7 @@ This is like npm, but __deno__ right.
 
 - Open your terminal and type `deno install -Af https://module.land/cli/land.js` 
 - Check if the command works with `land -v`
-- On a _new_ project folder type `land add moduleland/pdeno-lib@1.0.0`
+- On a _new_ project folder type `land add moduleland/deno-lib@1.0.0`
 
 You see that? A new json emerged, you are creating land!
 
