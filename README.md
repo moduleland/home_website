@@ -69,4 +69,4 @@ Hello *latest* land! 8
 ```
 Now, the module is on the latest version of the default branch of the project.
 
-Check this example module on [github](https://github.com/moduleland/deno-lib) and [moduleland/deno-lib](https://module.land/~moduleland/deno-lib)
+Check this example on [github](https://github.com/moduleland/deno-lib) and [moduleland/deno-lib](https://module.land/~moduleland/deno-lib)
