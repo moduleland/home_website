@@ -10,12 +10,13 @@ This is like npm, but __deno__ right.
 
 ### How it works
 
-- Open your terminal and type `deno install -Af https://module.land/cli/land.js` check if it works with `land -v`
-- On a _new_ project folder type `land add moduleland/public_module_test@1.0.0`
+- Open your terminal and type `deno install -Af https://module.land/cli/land.js` 
+- Check if the command works with `land -v`
+- On a _new_ project folder type `land add moduleland/pdeno-lib@1.0.0`
 
 You see that? A new json emerged, you are creating land!
 
-- Open `land.json` file, we are gonna check what's inside
+- Open `land.json` file, we are gonna inspect what's inside
 ```json
 {
   "imports": {
