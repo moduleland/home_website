@@ -44,7 +44,7 @@ Really nice, now we have a deno project running with __land__.
 
 Now, you are ready for start sharing your first module, __log in__ and share your project from __github__, use the knowledge from the example to integrate your module. 
 
-Remember, if you make a __new release__ about yout code, you don't need to tell `land` what to do, the __new version__ is gonna be available at the same time.
+Remember, if you make a __new release__ on github, you don't need to tell `land` what to do, the __new version__ is gonna be available at the same time.
 
 ### More
 
