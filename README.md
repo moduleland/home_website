@@ -1,6 +1,6 @@
 ## Welcome to land 
 
-If you are looking for a package manager with CLI and complete integration with all your github repositories, their respective releases and a complete deployment of new ones without doing anything boilerplating like `npm publish`, this is your land. 
+If you are looking for a package manager with CLI and complete integration with all your github repositories, their respective releases and a complete deployment of new ones without doing boilerplating like `npm publish`, this is your land. 
 
 This is like npm, but __deno__ right.
 
